@@ -7,7 +7,10 @@ Welcome to the SnakeG.V1_PY repository! This project is a Python implementation 
 - Keyboard controls for easy navigation of the snake.
 
 ## Installation
-Clone the repository to your local machine.
+Clone the repository to your local machine using the following command:
+```
+git clone https://github.com/omarmosharawi/SnakeG.V1_PY.git
+```
 
 # Requirements
 - Python 3.x
